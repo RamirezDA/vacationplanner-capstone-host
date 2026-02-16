@@ -10,4 +10,4 @@ The Android APK file for the application is available below:
 [Download VacationPlanner APK](https://github.com/RamirezDA/vacationplanner-capstone-host/raw/main/VacationPlanner-D424-release.apk)
 
 GitLab Repository (Source Code):
-
+[View Source Code on GitLab](https://gitlab.com/wgu-gitlab-environment/student-repos/AaronDeanRamirezGitLab/d308-mobile-application-development-android/-/tree/working-branch)
